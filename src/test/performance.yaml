@@ -1,0 +1,14 @@
+config:
+  target: 'http://localhost:3000'
+  phases:
+    - duration: 60
+      arrivalRate: 5
+
+scenarios:
+  - flow:
+      - post:
+          url: '/api/weather'
+          json:
+            EventType: 'sunrise'
+            Longitude: 2.294350
+            Latitude: 48.858844
