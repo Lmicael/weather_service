@@ -17,7 +17,7 @@
 ##Rotas 
 1. POST - O body da requisição recebe os seguintes parâmetros: EventType (String), Longitude (Number), Latitude (Number).
 
-##Um pouco sobre mim…
+##Um pouco sobre mim
 Meu nome é Lucas, atualmente tenho 23 anos, morro em Ribeirão Preto, interior de São Paulo e sou formado em Engenharia da Computação, pela UNAERP.
 Fui uma criança muito curiosa, e isso é algo que carrego comigo até hoje, sempre querendo saber como as coisas funcionavam e porque funcionavam daquela forma. 
 Eu iniciei na programação bem cedo, com 16 anos, já tinha desenvolvido meu primeiro aplicativo com React Native, Node.js e PostgreSQL.
